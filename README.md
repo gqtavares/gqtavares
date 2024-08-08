@@ -1,16 +1,14 @@
-## Hi there 👋
+## boa vindas ao meu perfil 🤍
 
-<!--
-**gqtavares/gqtavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é heidi
 
-Here are some ideas to get you started:
+- estou estudando no [Alura](https://alura.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Para contato comigo 📫
+
+  heidi.tavares@escola.pr.gov.br
+
+  @gqtavares
+
+![](https://media.tenor.com/wZsuryOCgmEAAAAM/spongebob-squarepants-gay.gif)
+  
